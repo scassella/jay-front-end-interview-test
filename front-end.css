@@ -1,0 +1,15 @@
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+    width: 60%;
+    margin: auto;
+}
+
+table tr:nth-child(odd) {
+    background-color: #eee;
+}
+table tr:nth-child(even) {
+    background-color: white;
+}
